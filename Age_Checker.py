@@ -13,4 +13,4 @@ while loop:
       print("Over age")
       break
   except ValueError:
-    print("Please enter a valid number 01")
+    print("Please enter a valid number")
